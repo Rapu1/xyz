@@ -35,7 +35,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,DEEN TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,DBC News 
+#EXTINF:-1 ,DBC NEWS
 https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
@@ -50,6 +50,8 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MY TV
 https://mytvbangla.com/0.m3u8
+#EXTINF:-1 ,JAGONEWS24 TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,TIME TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png",TBN 24 NEWS
@@ -102,16 +104,20 @@ http://103.163.247.39/local_out/maasrangatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,CHANNEL 9
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|referer=https://www.jagobd.com
 http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 ,CHANNEL 52
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 ,DTV
-https://live.dtvusa.com:8888/live/stream.m3u8
-#EXTINF:-1 ,PROJORMO TV
-https://video1.getstreamhosting.com:1936/8264/8264/playlist.m3u8
-#EXTINF:-1 ,IBTV USA 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mT8z6L7/IMG-20240126-085458.png" ,CHANNEL S   
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,Kids Creation
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+http://xtv.ooo:8080//live/4262701/52719/245967.ts
+#EXTINF:-1 ,ANIMAL PLANET SD
+http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/36-AnimalPlanetSD.m3u8
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/37-AnimalPlanetHD.m3u8
+#EXTINF:-1 ,CHANNEL 52
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 ,IBTV USA 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,GREEN NEWS 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 ,NRB TV
@@ -122,18 +128,16 @@ http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1" ,CUMILLA 24
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cumilla24bd.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,JAGONEWS24 TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,Millennium TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,CB24 UK
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,Channel Europe
+#EXTINF:-1 ,CHANNEL EUROPE
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8|referer=https://www.jagobd.com 
 https://stream.channeleuropetvboxlondon.co.uk/tmp_hls/stream/index.m3u8
-#EXTINF:-1 ,The Channel TV
+#EXTINF:-1 ,THE CHANNEL TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,Biswa Bangla 24
+#EXTINF:-1 ,BISWA BANGLA TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,B24C
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com 
@@ -143,14 +147,8 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 , Channel A1
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,Kids Creation
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC
-http://xtv.ooo:8080//live/4262701/52719/245967.ts
-#EXTINF:-1 ,ANIMAL PLANET SD
-http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/36-AnimalPlanetSD.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/37-AnimalPlanetHD.m3u8
+
+
 
 
 
