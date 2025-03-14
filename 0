@@ -8,9 +8,8 @@ http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV CTG
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
-http://xtv.ooo:8080/live/4262701/52719/245917.ts
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpqPc1N-aemKAM_jA80BgLMZdJV2183SnI0MAPldTgg&s" ,SOMOY TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8|referer=https://www.jagobd.com
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
@@ -127,6 +126,10 @@ https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" , TOFFEE DRAMA 
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
+#EXTINF:-1 ,VOKTA TV
+https://103.121.61.218/tmp_hls/voktatv/index.m3u8
+#EXTINF:-1 ,JATV TV
+https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1 ,SHADIN BANGLA TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1" ,NEWS 21
@@ -161,6 +164,15 @@ http://161.248.188.101/imran_vai1/index.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
 #EXTINF:-1 , DESHI TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
-
-
-
+#EXTINF:-1 ,bangla tv europe test1
+https://cdn.ghuddi.live/tvpage/Bangla_TV_EU/playlist.m3u8|referer=https://www.banglatv.tv
+#EXTINF:-1 ,bangla tv europe test2
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8|referer=https://www.banglatv.tv
+#EXTINF:-1 ,bangla tv europe test3
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8|referer=https://www.ghuddi.tv
+#EXTINF:-1 ,bangla tv europe test4
+https://cdn.ghuddi.live/tvpage/Bangla_TV_EU/playlist.m3u8|referer=https://www.ghuddi.tv
+#EXTINF:-1 ,bangla tv europe test5
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8|referer=https://www.ghuddi.tv
+#EXTINF:-1 ,bangla tv europe test6
+https://cdn.ghuddi.live/tvpage/Bangla_TV_EU/Transcoded/Bangla_TV_EU_1080p/chunks.m3u8|referer=https://www.banglatv.tv
