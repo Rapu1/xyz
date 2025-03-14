@@ -18,7 +18,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,CHANNEL 24
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
@@ -58,12 +58,14 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://channel-i-tv.rockstreamer.com/chlive/121212/playlist.m3u8
 http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
+http://opplextv.cyou:8080/live/258036/258036/245913.ts
 #EXTINF:-1 ,TV ONE
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,GAZI TV 
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com 
+http://161.248.188.101/Gazi_tv-bdixiptvbd.com/index.m3u8
 #EXTINF:-1 ,IQRA BANGLA TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
