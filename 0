@@ -19,6 +19,7 @@ http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,CHANNEL 24
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com 
+https://tvs1.aynaott.com/channel24/index.m3u8?token=cb7168bffd8d8dfb4a3f2c31f95d8e02fc4b95ec-4ab3f422193c5f7a867a77dfd33f04b6-1742064911-1742053811&amp;remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" ,NEWS 24 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
@@ -59,6 +60,7 @@ https://channel-i-tv.rockstreamer.com/chlive/121212/playlist.m3u8
 http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://opplextv.cyou:8080/live/258036/258036/245913.ts
+https://tvs2.aynaott.com/channeli/index.m3u8?token=90801fc1d09f8f4e016a34be42ff25f8825c2dfa-89d32238ccde88a2b17ae269b96df6eb-1742140511-1742053811&amp;remote=no_check_ip
 #EXTINF:-1 ,TV ONE
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.static/images/atn_bangla.jpg" ,ATN BANGLA 
