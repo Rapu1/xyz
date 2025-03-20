@@ -147,6 +147,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
 #EXTINF:-1 ,CHANNEL 52
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8|referer=https://www.jagobd.com
+https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/playlist.m3u8
 #EXTINF:-1 ,IBTV USA 
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8|referer=https://www.jagobd.com 
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
@@ -195,4 +196,16 @@ http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jHE171NBUBM_vnZV9O_X5aM/ts
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://flc2.technohaat.com/kidscreation_test/index.m3u8
+#EXTINF:-1 ,TEST1
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 ,TEST11
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8|referer=https://jonmobhumitv.com/ 
+#EXTINF:-1 ,TEST2
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 ,TEST3
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8|referer=https://app.bd-cast.com
+#EXTINF:-1 ,TEST4
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.bd-cast.com
+
+
 
