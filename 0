@@ -85,8 +85,8 @@ http://tv.digitalview.live:8080/play/DK1R-vHuq7_HMiZrzgOoMv7Cy7thcgcKBJ5zE5H_2go
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jLjLGoCo94C5oYSW_cNgkY0/ts
 #EXTINF:-1 ,GTV  
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com 
-http://tv.digitalview.live:8080/play/DK1R-vHuq7_HMiZrzgOoMnt8lGYWzXqkzwRwDUxNEAU/ts
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jNlfgoKumQLAQCR3kDvl7ZM/ts
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 #EXTINF:-1 ,TIME TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 ,IQRA BANGLA TV
@@ -126,6 +126,8 @@ http://tv.digitalview.live:8080/play/DK1R-vHuq7_HMiZrzgOoMlzxOyg0YbmpDvTjNBoG3bQ
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jGALlvysrLX2R1-MYA31Yqc/ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,PROBASHI TV
+http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 ,DEEPTO TV
 http://161.248.188.101/dipto_tv/index.m3u8
 http://tv.digitalview.live:8080/play/DK1R-vHuq7_HMiZrzgOoMvrFrcLFWG22mb3Eal-AokM/ts
@@ -181,6 +183,8 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,MILLENNIUM TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1 ,BISHWA BANGLA TV 
+https://static.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://xtv.ooo:8080//live/4262701/52719/245967.ts
 #EXTINF:-1 ,ANIMAL PLANET SD
