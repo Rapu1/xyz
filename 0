@@ -64,7 +64,6 @@ http://isp.top10bhaluka.com/tv/stream.m3u8?id=CHANNEL-I
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://tv.digitalview.live:8080/play/DK1R-vHuq7_HMiZrzgOoMv7Cy7thcgcKBJ5zE5H_2go/ts
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jLjLGoCo94C5oYSW_cNgkY0/ts
-http://lifetvbd.xyz:8080/live/taw99/taw99/2590.ts
 #EXTINF:-1 ,GTV  
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com 
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
@@ -117,7 +116,6 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/1803.ts
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,SALAM TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8
-http://lifetvbd.xyz:8080/live/taw99/taw99/3690.ts
 #EXTINF:-1 ,BANGLA 21
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8|referer=https://www.jagobd.com 
@@ -149,9 +147,10 @@ https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1" ,NEWS 21
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/playlist.m3u8
 #EXTINF:-1 ,CB24 UK
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8|referer=https://www.jagobd.com 
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 , CHANNEL A1
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8|referer=https://www.jagobd.com 
+https://iptvbd.live/channela1/1080.m3u8
 #EXTINF:-1 , ATV USA
 http://lifetvbd.xyz:8080/live/taw99/taw99/1515.ts
 #EXTINF:-1 ,JONMOBHUMI TV
@@ -163,10 +162,10 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/1806.ts
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:-1 ,CBN TV
 https://live.cbntvusa.net/hls/cbntv/index.m3u8
+#EXTINF:-1 ,CUMILLA 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cumilla24bd.stream/playlist.m3u8
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://xtv.ooo:8080//live/4262701/52719/245967.ts
-#EXTINF:-1 ,ANIMAL PLANET SD
-http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/36-AnimalPlanetSD.m3u8
 #EXTINF:-1 ,ANIMAL PLANET HD
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/37-AnimalPlanetHD.m3u8
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jHE171NBUBM_vnZV9O_X5aM/ts
