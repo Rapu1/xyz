@@ -1,13 +1,13 @@
 #EXTINF:-1 ,AZAN TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV
-http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jLUbOq36d4ftwEYCX1UndFg/ts
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+http://lifetvbd.xyz:8080/live/taw99/taw99/74.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV NEWS
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
-http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jL1VpOsHqREm13pF86RzZGY/ts
+http://lifetvbd.xyz:8080/live/taw99/taw99/75.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV CTG
-http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jPraZJ_gz7tWCYY0Q_OlXuc/ts
+http://lifetvbd.xyz:8080/live/taw99/taw99/256.ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
 http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
 http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jDUnTMB8pVnuV2xrzTR_qpQ/ts
@@ -115,7 +115,7 @@ http://lifetvbd.xyz:8080/play/q4sKYVqDE5wTYS6hxPP4jJhb5iQ_W-4pUOL3aRy4slU/ts
 http://lifetvbd.xyz:8080/live/taw99/taw99/2596.ts
 #EXTINF:-1 ,ION TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
-http://lifetvbd.xyz:8080/live/taw99/taw99/1803.ts
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
 #EXTINF:-1 ,SALAM TV
