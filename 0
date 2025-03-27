@@ -134,10 +134,6 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 ,NRB TV
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,CHANNEL 5
-http://lifetvbd.xyz:8080/live/taw99/taw99/9447.ts
-#EXTINF:-1 ,THE CHANNEL TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" , TOFFEE DRAMA 
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/9448.ts
@@ -145,6 +141,10 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/9448.ts
 http://lifetvbd.xyz:8080/live/taw99/taw99/9447.ts
 #EXTINF:-1 , JOURNAL 24
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
+#EXTINF:-1 ,CHANNEL 5
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 ,THE CHANNEL TV
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1" ,NEWS 21
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,CB24 UK
@@ -152,22 +152,19 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 ,JONMOBHUMI TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,B24C
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com 
-http://lifetvbd.xyz:8080/live/taw99/taw99/1806.ts
-#EXTINF:-1 ,VOKTA TV
-https://103.121.61.218/tmp_hls/voktatv/index.m3u8
-#EXTINF:-1 ,JATV TV
-https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 , PROJORMO TV
 https://video1.getstreamhosting.com:1936/8264/8264/playlist.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/1805.ts
-#EXTINF:-1 ,BISWABANGLA TV
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,CHANNEL A1
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8|referer=https://www.jagobd.com 
 https://iptvbd.live/channela1/1080.m3u8
 #EXTINF:-1 ,PADMA VISON
 http://padmaonline.duckdns.org:1935/pcv/pcv/playlist.m3u8
+#EXTINF:-1 ,VOKTA TV
+https://103.121.61.218/tmp_hls/voktatv/index.m3u8
+#EXTINF:-1 ,JATV TV
+https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://xtv.ooo:8080//live/4262701/52719/245967.ts
 #EXTINF:-1 ,ANIMAL PLANET HD
