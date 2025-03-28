@@ -112,7 +112,7 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/2593.ts
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://lifetvbd.xyz:8080/live/taw99/taw99/2596.ts
 #EXTINF:-1 ,ASIAN TV 
-http://lifetvbd.xyz:8080/live/taw99/taw99/2596.ts
+http://lifetvbd.xyz:8080/live/taw99/taw99/2589.ts
 #EXTINF:-1 ,BANGLA 21
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
@@ -150,23 +150,24 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 ,JONMOBHUMI TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,B24C
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,CHANNEL EUROPE
 https://channeleuropetvboxlondon.co.uk/tmp_hls/stream/index.m3u8
+#EXTINF:-1 ,JATV TV
+https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
+#EXTINF:-1 ,SHADIN BANGLA TV
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,BISWA BANGLA
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 , PROJORMO TV
-https://video1.getstreamhosting.com:1936/8264/8264/playlist.m3u8
-http://lifetvbd.xyz:8080/live/taw99/taw99/1805.ts
 #EXTINF:-1 ,CHANNEL A1
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8|referer=https://www.jagobd.com 
 https://iptvbd.live/channela1/1080.m3u8
+#EXTINF:-1 ,MAGICBD TV
+https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-1 ,PADMA VISON
 http://padmaonline.duckdns.org:1935/pcv/pcv/playlist.m3u8
 #EXTINF:-1 ,VOKTA TV
 https://103.121.61.218/tmp_hls/voktatv/index.m3u8
-#EXTINF:-1 ,JATV TV
-https://103.121.61.218/tmp_hls/jatvbd/index.m3u8
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://xtv.ooo:8080//live/4262701/52719/245967.ts
 #EXTINF:-1 ,ANIMAL PLANET HD
