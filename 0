@@ -107,11 +107,6 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/2596.ts
 http://lifetvbd.xyz:8080/live/taw99/taw99/2589.ts
 #EXTINF:-1 ,CHANNEL 9
 http://lifetvbd.xyz:8080/live/taw99/taw99/9579.ts
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
-https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BANGLA 21
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,ION TV 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com 
@@ -168,7 +163,8 @@ https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m
 http://103.122.74.6:8888/hls/SONIC.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" ,NICK
 http://103.122.74.6:8888/hls/NICK.m3u
-#EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" ,KIDS TV
+http://lifetvbd.xyz:8080/live/taw99/taw99/9636.ts
+#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
 https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 
