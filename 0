@@ -154,6 +154,8 @@ http://lifetvbd.xyz:8080/live/taw99/taw99/18.ts
 #EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" ,NICK
 http://103.122.74.6:8888/hls/NICK.m3u
 http://lifetvbd.xyz:8080/live/taw99/taw99/9636.ts
+#EXTINF:-1 tvg-id="23" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" ,SONIC
+https://tv.dgtv.xyz:8880/play/jz6rXbLvTUWj7LdSIVGKI47BXZ1DZFJ8BzvIGXmYbZw/ts
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
 https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
