@@ -18,12 +18,22 @@ https://playyonogames.in/live.php?id=1341&format=.m3u8|Referer=https://playyonog
 https://playyonogames.in/live.php?id=1345&format=.m3u8|Referer=https://playyonogames.in/key=Shaharum
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" ,KIDS CREATION
 https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GOPAL BUR 
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 ,DISCOVARY
 http://tv.dgtv.xyz:8080/live/taw99/taw99/3170.ts
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://tv.dgtv.xyz:8080/live/taw99/taw99/163.ts
 #EXTINF:-1 ,ANIMAL PLANET HD
 http://tv.dgtv.xyz:8080/live/taw99/taw99/18.ts
+#EXTINF:-1 ,SALAM TV
+http://tv.dgtv.xyz:8080/live/taw99/taw99/3690.tS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA 
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v4a1/mono.m3u8
+http://tv.dgtv.xyz:8080/live/taw99/taw99/9619.ts
+
+
+
 
 
 
